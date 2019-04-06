@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="scripts.TestNG.TestNGConfig2">
+  <test name="Test1">
+    <classes>
+    <class name= "scripts.testing.TestNGConfig1"/>
+   <class name= "scripts.testing.TestNGConfig2"/>
+      <class/>
+    </classes>
+  </test> <!-- Suite --><!-- -->
+</suite> 
